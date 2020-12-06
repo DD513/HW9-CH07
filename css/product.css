@@ -1,0 +1,11 @@
+.title {
+    color: #fa8072;
+    font-size: bold;
+}
+#banner {
+    background-image: url(../images/product.jpg);
+    background-position: center center;
+    background-size: cover ;
+    height: 500px;
+    margin-top:3.5rem;
+}
